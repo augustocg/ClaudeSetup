@@ -23,7 +23,8 @@ cp context-bar.sh ~/.claude/scripts/
 chmod +x ~/.claude/scripts/context-bar.sh
 ```
 
-Then add it to `~/.claude/settings.json`:
+Then add the contents of [`settings.json.example`](./settings.json.example)
+to `~/.claude/settings.json`:
 
 ```json
 {
